@@ -9,5 +9,6 @@ Latest boot images available here: [apatch-lineageos22-pixelxl folder](https://d
 
 ### Recommended Modules
 
-- [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix "PlayIntegrityFix") - Helps to pass Play Integrity(not strong_integrity) so apps such as google wallet and banking apps can work
+- [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix "PlayIntegrityFix") - Helps to pass Play Integrity(not strong_integrity) so apps such as google wallet and banking apps can work. Games with LIAPP detection will be a hit or miss
 - [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext "ZygiskNext") - Required for PlayIntegrityFix to work with apatch
+
